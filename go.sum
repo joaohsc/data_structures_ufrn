@@ -1,2 +1,6 @@
 github.com/go-stack/stack v1.8.1 h1:ntEHSVwIt7PNXNpgPmVfMrNhLtgjlmnZha2kOpuRiDw=
 github.com/go-stack/stack v1.8.1/go.mod h1:dcoOX6HbPZSZptuspn9bctJ+N/CnF5gGygcUP3XYfe4=
+github.com/joaohsc/data_structures_ufrn v0.0.0-20230328151151-164f131d5e92 h1:aXL3InQvWNNogcYlF9kX/IAeYMWmR6/W7f/f7TVrxSY=
+github.com/joaohsc/data_structures_ufrn v0.0.0-20230328151151-164f131d5e92/go.mod h1:oXRA2NbRjWWF/atLRmpF17Ko0INndPQIKPXsDQGFbdk=
+github.com/joaohsc/data_structures_ufrn v0.0.0-20230328151151-164f131d5e92 h1:aXL3InQvWNNogcYlF9kX/IAeYMWmR6/W7f/f7TVrxSY=
+github.com/joaohsc/data_structures_ufrn v0.0.0-20230328151151-164f131d5e92/go.mod h1:oXRA2NbRjWWF/atLRmpF17Ko0INndPQIKPXsDQGFbdk=
