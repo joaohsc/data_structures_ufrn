@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/eduardolfalcao/edi/src/go/list"
+	"github.com/joaohsc/data_structures_ufrn/tree/master/src/go/list"
 )
 
 func main() {
